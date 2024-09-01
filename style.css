@@ -102,3 +102,10 @@ nav{
     border-radius: 10px;
     width: 30%;
 }
+
+
+.new_rev{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
